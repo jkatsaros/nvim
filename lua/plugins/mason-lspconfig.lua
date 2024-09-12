@@ -10,7 +10,12 @@ return {
 			ensure_installed = {
 				"nil_ls",
 				"lua_ls",
+				"taplo",
+				"sqls",
+				"zls",
+				"rust_analyzer",
 				"gopls",
+				"r_language_server",
 			},
 		})
 	end,

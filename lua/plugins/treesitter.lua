@@ -8,6 +8,10 @@ return {
 			ensure_installed = {
 				"nix",
 				"lua",
+				"zig",
+				"rust",
+				"go",
+				"r",
 			},
 			sync_install = false,
 			highlight = { enable = true },
