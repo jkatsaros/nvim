@@ -15,7 +15,6 @@ return {
 				"zls",
 				"rust_analyzer",
 				"gopls",
-				"r_language_server",
 			},
 		})
 	end,
